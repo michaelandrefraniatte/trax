@@ -1,0 +1,27 @@
+- Pressing both buttons 1 and 2 of Wiimote is connecting it automatically at program launch
+- It use setting files needing to set decimal instead of comma for number separator in regional advanced options under control panel
+- Pressing button A of Wiimote enable/disable outputs in order to change settings
+- It's possible to have different settings for different games by creating different name game folders, renaming the program for create different shortcuts in the desktop
+- The inputs to outputs are as following
+irx = right stick axis x
+iry = right stick axis y, triggers
+mousex = left stick axis x
+mousey = left stick axis y
+W = left
+left shift = left stick
+space = A
+V = right stick
+R = W
+Tab = back
+C = B
+middle button = X
+A = right
+E = down
+F = up
+wheel scroll = Y
+escape = start
+G = right bumper
+T = left bumper
+right button = left trigger
+left button = right trigger
+Z, Q, S, D = left stick
